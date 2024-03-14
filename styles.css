@@ -130,7 +130,7 @@ body{
 
 .profiles-page-container{
   width: 100vw;
-  height: 100vh;
+  height: 100%;
   display: none;
   background-color: rgb(241, 243, 250);
   margin-top: -5px;
